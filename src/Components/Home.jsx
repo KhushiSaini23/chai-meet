@@ -71,7 +71,7 @@ export default function Home() {
                             <li onClick={() => handleMeeting('newMeeting')}>Chai-New-Meeting</li>
                             <li><Link to="/about" style={{ textDecoration: 'none', color: 'inherit' }}>Contact Us</Link></li>
                             <li className='' style={{ fontSize: '1.3rem', }}><Link to="/ques" style={{ textDecoration: 'none', color: 'inherit', display: 'flex', justifyContent: 'center' }}><IoMdHelpCircleOutline /></Link></li>
-                            <li className='' style={{ display: 'flex', justifyContent: 'center' }}> <a href="https://github.com/anuj6397"style={{fontSize:'1rem'}}><FaGithub /></a></li>
+                            <li className='' style={{ display: 'flex', justifyContent: 'center' }}> <a href="https://github.com/KhushiSaini23"style={{fontSize:'1rem'}}><FaGithub /></a></li>
                         </ul>
                     </div>
                 </div>
