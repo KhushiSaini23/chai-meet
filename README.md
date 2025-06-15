@@ -22,6 +22,32 @@ Axios / Fetch API – For making API calls.
 
 React Query / SWR – For data fetching and caching.
 
+🧑‍💻 Tech Stack / Languages Used
+
+React.js – Frontend framework
+
+HTML5 & CSS3 – Structure and styling
+
+JavaScript (ES6+) – App logic
+
+AI Tools / API – (Optional) Smart features and automation
+
+Node.js (if used) – Backend or signaling (if implemented)
+
+WebRTC – For video calling feature (if integrated)
+
+✨ Features 📹 Seamless video conferencing with room creation
+
+🤖 AI-assisted interactions for smarter responses (optional feature)
+
+💬 Real-time messaging and clean UI
+
+📱 Fully responsive design
+
+🔗 Easy social contact & form submission
+
+☕ Themed around casual "chai pe charcha" vibes
+
 # Screenshot
 ![Screenshot (16)](https://github.com/user-attachments/assets/a28be14d-3a79-4d7d-a512-56bdec7efbcf)
 ![Screenshot (17)](https://github.com/user-attachments/assets/d0d5f416-dd0a-457b-a850-d2ba2c44b0d4)
