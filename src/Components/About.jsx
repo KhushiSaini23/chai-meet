@@ -74,19 +74,19 @@ export default function About() {
           <div
             className="box" >
             <p><a href="https://www.instagram.com/__anujrajput_6397/" target="_blank"><FaInstagram style={{ fontSize: '5rem', color: 'red' }} /></a></p>
-            <p style={{ marginTop: '1.5rem', }}><span style={{ fontSize: '1rem' }}>Instagram:</span><br /><a href="https://www.instagram.com/__anujrajput_6397/" target="_blank" style={{ fontSize: '1rem' }}>Visit my Instagram</a></p>
+            <p style={{ marginTop: '1.5rem', }}><span style={{ fontSize: '1rem' }}>Instagram:</span><br /><a href="https://www.instagram.com/i.khushisaini/" target="_blank" style={{ fontSize: '1rem' }}>Visit my Instagram</a></p>
           </div>
 
           <div
             className="box" >
             <p><a href="https://github.com/anuj6397" style={{ fontSize: '1rem' }}><FaGithub style={{ fontSize: '5rem', color: 'purple' }} /></a></p>
-            <p style={{ marginTop: '1.5rem', }}><span style={{ fontSize: '1rem' }}>Github:</span><br /><a href="https://github.com/anuj6397" style={{ fontSize: '1rem' }}>Github.com</a></p>
+            <p style={{ marginTop: '1.5rem', }}><span style={{ fontSize: '1rem' }}>Github:</span><br /><a href="https://github.com/KhushiSaini23" style={{ fontSize: '1rem' }}>Github.com</a></p>
           </div>
 
           <div
             className="box" >
             <p><a href="mailto:anujk702441@gmail.com" style={{ fontSize: '0.85rem', marginRight: '20px' }}><MdEmail style={{ fontSize: '5rem', color: 'orange' }} /></a></p>
-            <p style={{ marginTop: '1.5rem', }}><span style={{ fontSize: '1rem' }}>Email:</span><br /><a href="mailto:anujk702441@gmail.com" style={{ fontSize: '1rem', marginRight: '25px', marginTop: '1rem' }}>anujk70@gmail.com</a></p>
+            <p style={{ marginTop: '1.5rem', }}><span style={{ fontSize: '1rem' }}>Email:</span><br /><a href="mailto:khushisaini2317@gmail.com" style={{ fontSize: '1rem', marginRight: '25px', marginTop: '1rem' }}>anujk70@gmail.com</a></p>
           </div>
 
           <div
