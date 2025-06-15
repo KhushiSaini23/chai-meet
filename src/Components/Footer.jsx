@@ -22,17 +22,17 @@ export default function Footer() {
                        <div className='social-media-icon' style={{ display: 'flex'}}>
                                 <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'row', gap: '1.5rem', padding: 0,marginTop:'2rem' }}>
                                   <li>
-                                    <a href='https://www.linkedin.com/in/anuj-rajput-7279b81b9/' target='_blank' rel='noopener noreferrer'>
+                                    <a href='www.linkedin.com/in/khushisaini23' target='_blank' rel='noopener noreferrer'>
                                       <FaLinkedin style={{ fontSize: '2rem', color: '#0077B5' }} />
                                     </a>
                                   </li>
                                   <li>
-                                    <a href='https://github.com/anuj6397' target='_blank' rel='noopener noreferrer'>
+                                    <a href='https://github.com/KhushiSaini23' target='_blank' rel='noopener noreferrer'>
                                       <FaGithub style={{ fontSize: '2rem', color: '#000' }} />
                                     </a>
                                   </li>
                                   <li>
-                                    <a href='https://www.instagram.com/__anujrajput_6397/' target='_blank' rel='noopener noreferrer'>
+                                    <a href='https://www.instagram.com/i.khushisaini/' target='_blank' rel='noopener noreferrer'>
                                       <FaInstagram style={{ fontSize: '2rem', color: '#E1306C' }} />
                                     </a>
                                   </li>
