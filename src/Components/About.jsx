@@ -86,7 +86,7 @@ export default function About() {
           <div
             className="box" >
             <p><a href="mailto:anujk702441@gmail.com" style={{ fontSize: '0.85rem', marginRight: '20px' }}><MdEmail style={{ fontSize: '5rem', color: 'orange' }} /></a></p>
-            <p style={{ marginTop: '1.5rem', }}><span style={{ fontSize: '1rem' }}>Email:</span><br /><a href="mailto:khushisaini2317@gmail.com" style={{ fontSize: '1rem', marginRight: '25px', marginTop: '1rem' }}>anujk70@gmail.com</a></p>
+            <p style={{ marginTop: '1.5rem', }}><span style={{ fontSize: '1rem' }}>Email:</span><br /><a href="mailto:khushisaini2317@gmail.com" style={{ fontSize: '1rem', marginRight: '25px', marginTop: '1rem' }}>khushisaini@gmail.com</a></p>
           </div>
 
           <div
