@@ -12,7 +12,7 @@ export default function Question() {
   console.log(answer)
  async function generateAnswer(){
          console.log("loding....")
-  const response = await axios({url:"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyAjJYVWix7gT1sg5rRCHX-IfmqLUbisfbll",
+  const response = await axios({url:"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyDVBkxN1u0xPOQ9fDfOp4rBcujDf2UTyAY",
   method:"post" ,
   data: {
     "contents": [
