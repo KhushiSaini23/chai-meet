@@ -49,7 +49,7 @@ export default function Footer() {
                 </div>
                  <hr/>
                 <div className='footer-4'>
-                    <p>Copyright © 2025 Chai-Meet | Made with ❤️ by Anuj 21BCS4654 | All Rights Reserved</p>
+                    <p>Copyright © 2025 Chai-Meet | Made with ❤️ by khushi 24MCA20046 | All Rights Reserved</p>
                 </div>
                 
         </>
